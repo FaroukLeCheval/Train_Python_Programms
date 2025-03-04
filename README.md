@@ -24,15 +24,15 @@ machine-learning-playlist-summarizer
 
 │── notebooks
 
-│ ├── 01_intro_to_python.ipynb
+│ ├── Cours_intro_to_python.py
 
-│ ├── 02_data_handling.ipynb
+│ ├── Cours_data_handling.ipynb
 
-│ ├── 03_linear_regression.ipynb
+│ ├── Cours_regression.ipynb
 
 │ ├── ...
 
-│ ├── XX_final_project.ipynb
+│ ├── Cours_final_project.ipynb
 
 │
 
