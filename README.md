@@ -32,13 +32,11 @@ machine-learning-playlist-summarizer
 
 │ ├── ...
 
-│ ├── Cours_final_project.ipynb
+│ ├── Cours_XXX_XXX.ipynb
 
 │
 
 │── README.md
-
-│── requirements.txt
 
 ```
 
